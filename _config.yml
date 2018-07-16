@@ -218,8 +218,8 @@ social:
   # LinkLabel: Link
   Email: mailto:me@wangsun.top
   LinkedIn: https://www.linkedin.com/in/wang-sun-aa9012135/
-  Github: https://github.com/SWKG21/
-
+  GitHub: https://github.com/SWKG21/
+  
 
 # Social Links Icons
 # Icon Mapping:
@@ -232,7 +232,7 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   Email: envelope
   LinkedIn: linkedin
-  GitHub: github-alt
+  GitHub: github
   # Twitter: twitter
   # Weibo: weibo
 
