@@ -6,8 +6,7 @@
 # Site
 title: Sniper
 subtitle:
-description: Sniper's scope
-signature: What hurts more, the pain of hard work or the pain of regret.
+description: What hurts more, the pain of hard work or the pain of regret. @Sniper's scope
 author: Wang SUN
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -262,8 +261,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  # position: right
+  # position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -271,7 +270,7 @@ sidebar:
   #  - hide    expand only when click on the sidebar toggle icon.
   #  - remove  Totally remove sidebar including sidebar toggle.
   display: post
-  #display: always
+  # display: always
   #display: hide
   #display: remove
 
