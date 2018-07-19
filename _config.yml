@@ -80,7 +80,7 @@ plugins:
 favicon: /assets/images/favicon.jpg
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Wang, Blog"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
