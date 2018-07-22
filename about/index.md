@@ -56,19 +56,19 @@ type: about
         <div style="width:75%; float: left;"><b>Stylometry: Authorship Attribution and Profiling</b><br><b>Keywords:</b> Machine Learning, Python</div>
     </div>
     <div style="width: 100%; display: inline-block; font-size: 15px; margin: 0;">
-        <div style="width:25%; float: left;">03/2017 - 06/2017</div>
+        <div style="width:25%; float: left;">05/2017 - 06/2017</div>
         <div style="width:75%; float: left;"><b>Robots: Face Following Drone</b><br><b>Keywords:</b> Drone, ROS, OpenCV</div>
     </div>
     <div style="width: 100%; display: inline-block; font-size: 15px; margin: 0;">
-        <div style="width:25%; float: left;">03/2017 - 06/2017</div>
+        <div style="width:25%; float: left;">05/2017 - 06/2017</div>
         <div style="width:75%; float: left;"><b>Detection using "Boosting"</b><br><b>Keywords:</b> Distributed Programming, Message Passing Interface, C++, Integral Image, Perceptron, AdaBoost</div>
     </div>
     <div style="width: 100%; display: inline-block; font-size: 15px; margin: 0;">
-        <div style="width:25%; float: left;">01/2017 - 03/2017</div>
+        <div style="width:25%; float: left;">03/2017 - 04/2017</div>
         <div style="width:75%; float: left;"><b>Multiplayers game: SET</b><br><b>Keywords:</b> Multi-threads, Socket, Android, Java</div>
     </div>
     <div style="width: 100%; display: inline-block; font-size: 15px; margin: 0;">
-        <div style="width:25%; float: left;">11/2016 - 01/2017</div>
+        <div style="width:25%; float: left;">11/2016 - 12/2016</div>
         <div style="width:75%; float: left;"><b>Polyomino Tilings and Exact Cover</b><br><b>Keywords:</b> Graph, Java</div>
     </div>
 </div>
