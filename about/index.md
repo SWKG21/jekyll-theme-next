@@ -109,6 +109,10 @@ type: about
         <div style="width: 85%;"><b>Excellent Graduate of Nanjing University</b></div>
     </div>
     <div style="width: 100%; display: in-line block; font-size: 15px; margin: 0;">
+        <div style="width:15%; float: left;">2014</div>
+        <div style="width: 85%;"><b>Excellent Student of Nanjing University</b></div>
+    </div>
+    <div style="width: 100%; display: in-line block; font-size: 15px; margin: 0;">
         <div style="width:15%; float: left;">2013</div>
         <div style="width: 85%;"><b>Excellent Student of Nanjing University</b></div>
     </div>
